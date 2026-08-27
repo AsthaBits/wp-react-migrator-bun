@@ -1,0 +1,100 @@
+{
+  "siteUrl": "https://noma.dk",
+  "branding": {
+    "logo": "https://i0.wp.com/noma.dk/wp-content/uploads/2026/06/Noma_2026_Copenhagen.jpg?fit=1938%2C2394&ssl=1",
+    "primaryColor": "#7a00df",
+    "secondaryColor": "#007cba",
+    "font": "inherit",
+    "confidence": "high"
+  },
+  "contact": {
+    "phone": "+45 32 96 32 97",
+    "email": ""
+  },
+  "navigation": [
+    {
+      "label": "Privacy Policy | noma",
+      "url": "/privacy-policy"
+    },
+    {
+      "label": "noma",
+      "url": "/"
+    },
+    {
+      "label": "People | noma",
+      "url": "/people"
+    },
+    {
+      "label": "Careers | noma",
+      "url": "/careers"
+    },
+    {
+      "label": "Reservations | noma",
+      "url": "/reservations"
+    },
+    {
+      "label": "Noma Projects | noma",
+      "url": "/projects"
+    },
+    {
+      "label": "Reservation | noma",
+      "url": "/da/reservation"
+    },
+    {
+      "label": "Politik om databehandling | noma",
+      "url": "/da/politik-om-databehandling"
+    }
+  ],
+  "templates": {
+    "/privacy-policy": "about-v1",
+    "/": "home-v1",
+    "/people": "about-v1",
+    "/careers": "about-v1",
+    "/reservations": "about-v1",
+    "/projects": "about-v1",
+    "/da/reservation": "service-v2",
+    "/da/politik-om-databehandling": "service-v2",
+    "/da/mennesker": "about-v1",
+    "/da/hjem": "service-v2",
+    "/da/projekter": "service-v2",
+    "/da/vilkar-og-betingelser": "service-v2",
+    "/da/job": "about-v1",
+    "/newsletter": "about-v1",
+    "/da/nyhedsbrev": "service-v2",
+    "/terms-of-use": "about-v1",
+    "/a-taste-of-noma-at-claridges": "about-v1",
+    "/da/beliggenhed": "service-v2",
+    "/new-book-by-pontus-elofsson-the-man-behind-nomas-wine-philosophy-published-in-danish-the-29th-of-october-2012": "about-v1",
+    "/recipes-list": "about-v1",
+    "/recipes": "about-v1",
+    "/announcements": "about-v1",
+    "/da/annonceringer": "service-v2",
+    "/news-for-2013": "about-v1",
+    "/a-story-about-a-ship-that-brings-happiness": "about-v1",
+    "/diving-beyond-the-wall": "about-v1",
+    "/nomas-new-shared-table": "about-v1",
+    "/mad-symposium-copenhagen-25-26-august-2013-2": "about-v1",
+    "/a-noma-maritime-garden": "about-v1",
+    "/nomas-kitchen-is-evolving": "about-v1",
+    "/noma-alumni": "about-v1",
+    "/dreams-of-australia": "about-v1",
+    "/stream-of-noma": "about-v1",
+    "/japan": "about-v1",
+    "/looking-for-a-pastry-chef": "about-v1",
+    "/a-very-short-film-about-the-past-present-and-future-of-noma": "about-v1",
+    "/special-announcement-sydney-students": "about-v1",
+    "/were-opening-a-new-restaurant": "about-v1",
+    "/kristian-baumann-and-rene-redzepi-open-108": "about-v1",
+    "/noma-australia-bookings": "about-v1",
+    "/our-front-of-house-team-is-looking-for-a-new-waiter": "about-v1",
+    "/what-goes-into-doing-a-pop-up": "about-v1",
+    "/science-bunker-creations-for-noma-mexico": "about-v1",
+    "/attention-culinary-students-of-mexico": "about-v1",
+    "/the-artisans-of-noma-mexico": "about-v1",
+    "/mayan-producers": "about-v1",
+    "/popup-under-the-bridge": "about-v1",
+    "/new-noma-update": "about-v1",
+    "/a-bar-menu-to-support-the-mundo-maya-foundation": "about-v1",
+    "/noma-mexico-the-building-site": "about-v1"
+  }
+}
